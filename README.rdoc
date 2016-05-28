@@ -1,28 +1,14 @@
-== README
+== A cool App built with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi everyone! This is the repo for a cool website where we let users review different categories
+for books, this website let me practice with ruby on rails for one of my future
+projects where I could apply some cool features that I learned in this project:
 
-Things you may want to cover:
+* A 5 stars rating system.
 
-* Ruby version
+* A classifier for the different types of books.
 
-* System dependencies
+* Adding images for every book with the paperclip gem.
 
-* Configuration
+* User management and registration system.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
